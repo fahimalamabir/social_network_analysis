@@ -1,2 +1,2 @@
-# social_network_analysis
+# Applied Social Network Analysis in Python
 We  will discuss network analysis through tutorials using the NetworkX library. Starting with an understanding of what network analysis is and motivations for why we might model phenomena as networks. The second week introduces the concept of connectivity and network robustness. The third week will explore ways of measuring the importance or centrality of a node in a network. The final week will explore the evolution of networks over time and cover models of network generation and the link prediction problem. 
